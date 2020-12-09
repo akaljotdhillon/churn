@@ -197,4 +197,4 @@ Clone and update your .bashrc file
 4. git_prompt_remote() set the remote target for current shell, default is 'origin'
 5. git_prompt_remote_branch() set the remote branch for current shell, default is 'master'
 
-Ekambir
+
